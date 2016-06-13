@@ -6,9 +6,11 @@ If you want a laugh, have a play!
 
 ## Setup
 Bar One is a game that is played locally through the command line. To play, you will first need to clone the repo:
-`git clone https://github.com/melonious/longer_project.git`
+
+`git clone https://github.com/melonious/REPL_Game.git`
 
 Next, all you need to do is `cd` into the directory and run the ruby file:
+
 `ruby bar_one.rb`
 
 Enjoy!
